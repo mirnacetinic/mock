@@ -1,0 +1,16 @@
+{
+    "chocolateTypes": [
+        {
+            "type": "basic",
+            "options": ["milk", "dark", "white", "ruby"]
+        },
+        {
+            "type": "organic",
+            "options": ["vegan", "stevia", "gluten-free"]
+        },
+        {
+            "type": "withAdditives",
+            "options": ["hazelnut", "almond", "raisins"]
+        }
+    ]
+}
