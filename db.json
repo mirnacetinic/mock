@@ -20,7 +20,7 @@
             "description": "Smooth and creamy milk chocolate.",
             "price": 5,
             "type": "basic",
-            "option": "milk"
+            "option": "milk",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -29,7 +29,7 @@
             "description": "Rich and bitter dark chocolate.",
             "price": 6,
             "type": "basic",
-            "option": "dark"
+            "option": "dark",
             "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
@@ -38,7 +38,7 @@
             "description": "Sweet and creamy white chocolate.",
             "price": 5.5,
             "type": "basic",
-            "option": "white"
+            "option": "white",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -47,7 +47,7 @@
             "description": "Exotic ruby chocolate with fruity notes.",
             "price": 7,
             "type": "basic",
-            "option": "ruby"
+            "option": "ruby",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -56,7 +56,7 @@
             "description": "Organic chocolate made for vegans.",
             "price": 6.5,
             "type": "organic",
-            "option": "vegan"
+            "option": "vegan",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -65,7 +65,7 @@
             "description": "Sweetened with stevia, perfect for a sugar-free diet.",
             "price": 7,
             "type": "organic",
-            "option": "stevia"
+            "option": "stevia",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -74,7 +74,7 @@
             "description": "Organic chocolate without gluten.",
             "price": 6.8,
             "type": "organic",
-            "option": "gluten-free"
+            "option": "gluten-free",
             "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
@@ -83,7 +83,7 @@
             "description": "Chocolate with crunchy hazelnuts.",
             "price": 7.5,
             "type": "withAdditives",
-            "option": "hazelnut"
+            "option": "hazelnut",
             "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
@@ -92,7 +92,7 @@
             "description": "Chocolate with roasted almonds.",
             "price": 8,
             "type": "withAdditives",
-            "option": "almond"
+            "option": "almond",
             "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
@@ -101,7 +101,7 @@
             "description": "Chocolate with sweet raisins.",
             "price": 7.2,
             "type": "withAdditives",
-            "option": "raisins"
+            "option": "raisins",
             "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
@@ -110,7 +110,7 @@
             "description": "Rich and bitter dark chocolate.",
             "price": 7,
             "type": "basic",
-            "option": "dark"
+            "option": "dark",
             "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
@@ -119,7 +119,7 @@
             "description": "Rich and bitter dark chocolate.",
             "price": 7,
             "type": "basic",
-            "option": "dark"
+            "option": "dark",
             "image": "https://pixabay.com/photos/chocolate-sweet-candy-551424/"
             
         }
