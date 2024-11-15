@@ -24,7 +24,7 @@
         },
         {
             "id": 2,
-            "name": "Dark Chocolate",
+            "name": "Dark Chocolate 70%",
             "description": "Rich and bitter dark chocolate.",
             "price": 6,
             "type": "basic",
@@ -93,6 +93,22 @@
             "price": 7.2,
             "type": "withAdditives",
             "option": "raisins"
+        },
+        {
+            "id": 11,
+            "name": "Dark Chocolate 80%",
+            "description": "Rich and bitter dark chocolate.",
+            "price": 7,
+            "type": "basic",
+            "option": "dark"
+        },
+        {
+            "id": 12,
+            "name": "Dark Chocolate 90%",
+            "description": "Rich and bitter dark chocolate.",
+            "price": 7,
+            "type": "basic",
+            "option": "dark"
         }
     ]
 }
