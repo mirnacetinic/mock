@@ -39,6 +39,7 @@
             "price": 5.5,
             "type": "basic",
             "option": "white"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
         },
         {
             "id": 4,
@@ -83,7 +84,7 @@
             "price": 7.5,
             "type": "withAdditives",
             "option": "hazelnut"
-              "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
         },
         {
             "id": 9,
