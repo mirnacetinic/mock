@@ -1,40 +1,127 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Milk Chocolate",
-      "description": "Smooth and creamy milk chocolate.",
-      "price": 5,
-      "type": "basic",
-      "option": "milk",
-      "image": "https://example.com/images/milk-chocolate.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Dark Chocolate",
-      "description": "Rich and bitter dark chocolate.",
-      "price": 6,
-      "type": "basic",
-      "option": "dark",
-      "image": "https://example.com/images/dark-chocolate.jpg"
-    },
-    {
-      "id": 3,
-      "name": "White Chocolate",
-      "description": "Sweet and creamy white chocolate.",
-      "price": 5.5,
-      "type": "basic",
-      "option": "white",
-      "image": "https://example.com/images/white-chocolate.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Ruby Chocolate",
-      "description": "Exotic ruby chocolate with fruity notes.",
-      "price": 7,
-      "type": "basic",
-      "option": "ruby",
-      "image": "https://example.com/images/ruby-chocolate.jpg"
-    }
-  ]
+    "chocolateTypes": [
+        {
+            "type": "basic",
+            "options": ["milk", "dark", "white", "ruby"]
+        },
+        {
+            "type": "organic",
+            "options": ["vegan", "stevia", "gluten-free"]
+        },
+        {
+            "type": "withAdditives",
+            "options": ["hazelnut", "almond", "raisins"]
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Milk Chocolate",
+            "description": "Smooth and creamy milk chocolate.",
+            "price": 5,
+            "type": "basic",
+            "option": "milk"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 2,
+            "name": "Dark Chocolate 70%",
+            "description": "Rich and bitter dark chocolate.",
+            "price": 6,
+            "type": "basic",
+            "option": "dark"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+        },
+        {
+            "id": 3,
+            "name": "White Chocolate",
+            "description": "Sweet and creamy white chocolate.",
+            "price": 5.5,
+            "type": "basic",
+            "option": "white"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 4,
+            "name": "Ruby Chocolate",
+            "description": "Exotic ruby chocolate with fruity notes.",
+            "price": 7,
+            "type": "basic",
+            "option": "ruby"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 5,
+            "name": "Vegan Chocolate",
+            "description": "Organic chocolate made for vegans.",
+            "price": 6.5,
+            "type": "organic",
+            "option": "vegan"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 6,
+            "name": "Stevia Chocolate",
+            "description": "Sweetened with stevia, perfect for a sugar-free diet.",
+            "price": 7,
+            "type": "organic",
+            "option": "stevia"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 7,
+            "name": "Gluten-Free Chocolate",
+            "description": "Organic chocolate without gluten.",
+            "price": 6.8,
+            "type": "organic",
+            "option": "gluten-free"
+            "image": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/"
+        },
+        {
+            "id": 8,
+            "name": "Hazelnut Chocolate",
+            "description": "Chocolate with crunchy hazelnuts.",
+            "price": 7.5,
+            "type": "withAdditives",
+            "option": "hazelnut"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+        },
+        {
+            "id": 9,
+            "name": "Almond Chocolate",
+            "description": "Chocolate with roasted almonds.",
+            "price": 8,
+            "type": "withAdditives",
+            "option": "almond"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+        },
+        {
+            "id": 10,
+            "name": "Raisin Chocolate",
+            "description": "Chocolate with sweet raisins.",
+            "price": 7.2,
+            "type": "withAdditives",
+            "option": "raisins"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+        },
+        {
+            "id": 11,
+            "name": "Dark Chocolate 80%",
+            "description": "Rich and bitter dark chocolate.",
+            "price": 7,
+            "type": "basic",
+            "option": "dark"
+            "image": "https://pixabay.com/photos/coffee-chocolate-cinnamon-anise-1900194/"
+        },
+        {
+            "id": 12,
+            "name": "Dark Chocolate 90%",
+            "description": "Rich and bitter dark chocolate.",
+            "price": 7,
+            "type": "basic",
+            "option": "dark"
+            "image": "https://pixabay.com/photos/chocolate-sweet-candy-551424/"
+            
+        }
+    ]
 }
